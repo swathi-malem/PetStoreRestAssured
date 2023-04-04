@@ -1,0 +1,181 @@
+22:33:58.652 [main] INFO  api.test.UserTests - ----------Create user----------
+22:34:01.047 [main] INFO  api.test.UserTests - ----------user is created----------
+22:34:01.068 [main] INFO  api.test.UserTests - ----------get user----------
+22:34:01.586 [main] INFO  api.test.UserTests - ---------- user datails are displayed----------
+22:34:01.586 [main] INFO  api.test.UserTests - ----------Update user----------
+22:34:03.423 [main] INFO  api.test.UserTests - ----------Updated user datails----------
+22:34:03.423 [main] INFO  api.test.UserTests - ----------Delete user----------
+22:34:04.248 [main] INFO  api.test.UserTests - ----------user details are deleted----------
+21:42:51.439 [main] INFO  api.test.StoreTests - ----------Create user----------
+21:42:54.001 [main] INFO  api.test.StoreTests - ----------user is created----------
+21:43:31.494 [main] INFO  api.test.StoreTests - ----------Create user----------
+21:43:34.154 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:26:01.523 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:26:51.151 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:28:20.062 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:28:22.465 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:28:46.932 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:28:49.346 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:29:14.720 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:29:17.201 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:30:01.282 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:30:03.700 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:31:00.729 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:34:57.422 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:34:59.989 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:35:02.484 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:52:19.327 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:52:22.854 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:52:58.939 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:53:01.316 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:53:59.639 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:54:02.016 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:54:28.181 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:54:30.548 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:54:56.941 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:54:59.316 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:56:04.503 [main] INFO  api.test.StoreTests - ----------Create user----------
+22:56:06.874 [main] INFO  api.test.StoreTests - ----------user is created----------
+22:56:58.067 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:11:01.535 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:11:03.893 [main] INFO  api.test.StoreTests - ----------user is created----------
+23:11:03.897 [main] INFO  api.test.StoreTests - ----------get user----------
+23:12:09.115 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:12:11.526 [main] INFO  api.test.StoreTests - ----------user is created----------
+23:12:11.531 [main] INFO  api.test.StoreTests - ----------get user----------
+23:12:12.094 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:20:44.520 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:20:47.068 [main] INFO  api.test.StoreTests - ----------user is created----------
+23:20:47.073 [main] INFO  api.test.StoreTests - ----------get user----------
+23:20:47.588 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:22:01.602 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:22:04.005 [main] INFO  api.test.StoreTests - ----------user is created----------
+23:22:04.010 [main] INFO  api.test.StoreTests - ----------get user----------
+23:22:04.579 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:22:04.580 [main] INFO  api.test.StoreTests - ----------get user----------
+23:22:05.301 [main] INFO  api.test.StoreTests - ----------get user----------
+23:23:23.388 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:23:25.835 [main] INFO  api.test.StoreTests - ----------user is created----------
+23:23:25.839 [main] INFO  api.test.StoreTests - ----------get user----------
+23:23:26.345 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:23:26.347 [main] INFO  api.test.StoreTests - ----------get user----------
+23:25:37.036 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:25:39.357 [main] INFO  api.test.StoreTests - ----------user is created----------
+23:25:39.361 [main] INFO  api.test.StoreTests - ----------get user----------
+23:25:39.881 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:25:39.882 [main] INFO  api.test.StoreTests - ----------get user----------
+23:25:40.363 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:26:40.208 [main] INFO  api.test.StoreTests - ----------get user----------
+23:26:42.311 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:27:20.708 [main] INFO  api.test.StoreTests - ----------Create user----------
+23:27:23.088 [main] INFO  api.test.StoreTests - ----------user is created----------
+23:27:23.093 [main] INFO  api.test.StoreTests - ----------get user----------
+23:27:23.615 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:27:23.616 [main] INFO  api.test.StoreTests - ----------get user----------
+23:27:24.098 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+23:27:24.099 [main] INFO  api.test.StoreTests - ----------get user----------
+23:27:24.595 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:32:36.263 [main] INFO  api.test.StoreTests - ----------Create user----------
+17:32:40.224 [main] INFO  api.test.StoreTests - ----------user is created----------
+17:32:40.233 [main] INFO  api.test.StoreTests - ----------get user----------
+17:32:40.757 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:32:40.759 [main] INFO  api.test.StoreTests - ----------get user----------
+17:32:41.257 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:32:41.257 [main] INFO  api.test.StoreTests - ----------get user----------
+17:32:41.766 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:37:24.103 [main] INFO  api.test.StoreTests - ----------Create user----------
+17:37:26.218 [main] INFO  api.test.StoreTests - ----------user is created----------
+17:37:26.235 [main] INFO  api.test.StoreTests - ----------get user----------
+17:37:26.734 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:37:26.734 [main] INFO  api.test.StoreTests - ----------get user----------
+17:37:27.227 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:37:27.227 [main] INFO  api.test.StoreTests - ----------get user----------
+17:37:27.711 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:37:27.889 [main] INFO  api.test.UserTests - ----------Create user----------
+17:37:28.386 [main] INFO  api.test.UserTests - ----------user is created----------
+17:37:28.387 [main] INFO  api.test.UserTests - ----------get user----------
+17:37:28.878 [main] INFO  api.test.UserTests - ---------- user datails are displayed----------
+17:37:28.878 [main] INFO  api.test.UserTests - ----------Update user----------
+17:37:29.834 [main] INFO  api.test.UserTests - ----------Updated user datails----------
+17:37:29.834 [main] INFO  api.test.UserTests - ----------Delete user----------
+17:37:30.310 [main] INFO  api.test.UserTests - ----------user details are deleted----------
+17:42:46.207 [main] INFO  api.test.StoreTests - ----------Create user----------
+17:42:48.480 [main] INFO  api.test.StoreTests - ----------user is created----------
+17:42:48.492 [main] INFO  api.test.StoreTests - ----------get user----------
+17:42:49.002 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:42:49.011 [main] INFO  api.test.StoreTests - ----------get user----------
+17:42:49.486 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:42:49.486 [main] INFO  api.test.StoreTests - ----------get user----------
+17:42:50.075 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:42:50.225 [main] INFO  api.test.UserTests - ----------Create user----------
+17:42:51.408 [main] INFO  api.test.UserTests - ----------user is created----------
+17:42:51.408 [main] INFO  api.test.UserTests - ----------get user----------
+17:42:52.232 [main] INFO  api.test.UserTests - ---------- user datails are displayed----------
+17:42:52.232 [main] INFO  api.test.UserTests - ----------Update user----------
+17:42:54.414 [main] INFO  api.test.UserTests - ----------Updated user datails----------
+17:42:54.414 [main] INFO  api.test.UserTests - ----------Delete user----------
+17:42:55.007 [main] INFO  api.test.UserTests - ----------user details are deleted----------
+17:50:31.495 [main] INFO  api.test.StoreTests - ----------Create user----------
+17:50:34.034 [main] INFO  api.test.StoreTests - ----------user is created----------
+17:50:34.048 [main] INFO  api.test.StoreTests - ----------get user----------
+17:50:34.670 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:50:34.672 [main] INFO  api.test.StoreTests - ----------get user----------
+17:50:35.186 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:50:35.192 [main] INFO  api.test.StoreTests - ----------get user----------
+17:50:35.703 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+17:50:35.841 [main] INFO  api.test.UserTests - ----------Create user----------
+17:50:36.365 [main] INFO  api.test.UserTests - ----------user is created----------
+17:50:36.365 [main] INFO  api.test.UserTests - ----------get user----------
+17:50:36.877 [main] INFO  api.test.UserTests - ---------- user datails are displayed----------
+17:50:36.879 [main] INFO  api.test.UserTests - ----------Update user----------
+17:50:38.466 [main] INFO  api.test.UserTests - ----------Updated user datails----------
+17:50:38.466 [main] INFO  api.test.UserTests - ----------Delete user----------
+17:50:39.167 [main] INFO  api.test.UserTests - ----------user details are deleted----------
+19:05:11.393 [main] INFO  api.test.StoreTests - ----------Create user----------
+19:05:13.793 [main] INFO  api.test.StoreTests - ----------user is created----------
+19:05:13.801 [main] INFO  api.test.StoreTests - ----------get user----------
+19:05:14.322 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+19:05:14.322 [main] INFO  api.test.StoreTests - ----------get user----------
+19:05:14.817 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+19:05:14.817 [main] INFO  api.test.StoreTests - ----------get user----------
+19:05:15.503 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+19:05:15.655 [main] INFO  api.test.UserTests - ----------Create user----------
+19:05:16.691 [main] INFO  api.test.UserTests - ----------user is created----------
+19:05:16.691 [main] INFO  api.test.UserTests - ----------get user----------
+19:05:17.303 [main] INFO  api.test.UserTests - ---------- user datails are displayed----------
+19:05:17.303 [main] INFO  api.test.UserTests - ----------Update user----------
+19:05:18.779 [main] INFO  api.test.UserTests - ----------Updated user datails----------
+19:05:18.779 [main] INFO  api.test.UserTests - ----------Delete user----------
+19:05:19.496 [main] INFO  api.test.UserTests - ----------user details are deleted----------
+20:51:50.559 [main] INFO  api.test.StoreTests - ----------Create user----------
+20:51:52.688 [main] INFO  api.test.StoreTests - ----------user is created----------
+20:51:52.710 [main] INFO  api.test.StoreTests - ----------get user----------
+20:51:53.245 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+20:51:53.246 [main] INFO  api.test.StoreTests - ----------get user----------
+20:51:53.728 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+20:51:53.728 [main] INFO  api.test.StoreTests - ----------get user----------
+20:51:54.556 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+20:51:54.741 [main] INFO  api.test.UserTests - ----------Create user----------
+20:51:55.241 [main] INFO  api.test.UserTests - ----------user is created----------
+20:51:55.246 [main] INFO  api.test.UserTests - ----------get user----------
+20:51:56.191 [main] INFO  api.test.UserTests - ---------- user datails are displayed----------
+20:51:56.191 [main] INFO  api.test.UserTests - ----------Update user----------
+20:51:57.626 [main] INFO  api.test.UserTests - ----------Updated user datails----------
+20:51:57.629 [main] INFO  api.test.UserTests - ----------Delete user----------
+20:51:58.343 [main] INFO  api.test.UserTests - ----------user details are deleted----------
+20:52:29.867 [main] INFO  api.test.StoreTests - ----------Create user----------
+20:52:31.638 [main] INFO  api.test.StoreTests - ----------user is created----------
+20:52:31.662 [main] INFO  api.test.StoreTests - ----------get user----------
+20:52:32.195 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+20:52:32.196 [main] INFO  api.test.StoreTests - ----------get user----------
+20:52:32.837 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+20:52:32.839 [main] INFO  api.test.StoreTests - ----------get user----------
+20:52:33.325 [main] INFO  api.test.StoreTests - ---------- user datails are displayed----------
+20:52:33.470 [main] INFO  api.test.UserTests - ----------Create user----------
+20:52:33.967 [main] INFO  api.test.UserTests - ----------user is created----------
+20:52:33.970 [main] INFO  api.test.UserTests - ----------get user----------
+20:52:34.456 [main] INFO  api.test.UserTests - ---------- user datails are displayed----------
+20:52:34.458 [main] INFO  api.test.UserTests - ----------Update user----------
+20:52:35.437 [main] INFO  api.test.UserTests - ----------Updated user datails----------
+20:52:35.437 [main] INFO  api.test.UserTests - ----------Delete user----------
+20:52:36.026 [main] INFO  api.test.UserTests - ----------user details are deleted----------
